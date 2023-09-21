@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056686991137",
+    "project_id": "air-tours-project",
+    "storage_bucket": "air-tours-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056686991137:android:6aeea8303f76e48a7f4060",
+        "android_client_info": {
+          "package_name": "com.example.airtours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056686991137-4149e2kpghqe6lqdgftce1arr41h1rts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pK2XDXilcckovONd7_dbnlpnc9Dom3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056686991137-4149e2kpghqe6lqdgftce1arr41h1rts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
